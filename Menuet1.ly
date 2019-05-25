@@ -30,8 +30,18 @@
   b, ([ d gis-1 a\< b ) d-.-0\!] 
   a,-.\f [ d' (c b)] c4
   % falschherum
-  dis,8 [ (fis-1 a) c b a-.] 
-
+  dis,8 [ (fis-1 a) c ( b) a-.]
+  % Legatobogen 2
+  % I einfügen
+  b [( e, g,)] a'-0 [( c) b-.]
+  % Legatobogen 2
+  a [( g fis e)] b-. ( dis-.)
+  e,4.-> e'8-3 [( d) c-.-2]
+  % crescendo und Akzent richtig setzen
+  % Legatobogen 2 
+  % Auflösungszeichen
+  b\p ( d-.) g4-.-0 d8-1\mf [( e16 f)]
+  f8 [( d) e-4 ( c)] c,-. b 
   }
 
   }
