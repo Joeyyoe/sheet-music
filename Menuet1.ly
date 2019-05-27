@@ -4,6 +4,9 @@
 }
 
 \score {
+\relative d {d-+}
+dashPlus = "trill"
+\relative d {d-+}
   \relative d {
   \clef "bass"
   \key g \major
@@ -30,15 +33,12 @@
   b, ([ d gis-1 a\< b ) d-.-0\!] 
   a,-.\f [ d' (c b)] c4
     % falschherum
-  dis,8 [ (fis-1 a) c ( b) a-.]
-    % Legatobogen 2
+  dis,8 [ (fis-1 a) c\( (b) a-.\)]
     % I einfügen
-  b [( e, g,)] a'-0 [( c) b-.]
-    % Legatobogen 2
+  b [( e, g,)] a'-0\( ( c) b-.\)
   a [( g fis e)] b-. ( dis-.)
-  e,4.^>\> e'8-3\! [( d) c-.-2]
+  e,4.^>\> e'8-3\!\( ( d) c-.-2\)
     % crescendo und Akzent richtig setzen (dim.?)
-    % Legatobogen 2 
     % Auflösungszeichen
   b\p ( d-.) g4-.-0 d8-1\mf [( e16 f)]
   f8 [( d) e-4 ( c)] c,-. b'-.
@@ -51,6 +51,7 @@
    % forte nicht an der richtigen Stelle
    % Artikulationszeichen nicht richtig
   < g, g' >2.
+  
 
 
   }
