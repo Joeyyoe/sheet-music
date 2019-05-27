@@ -38,13 +38,11 @@
   a [( g fis e)] b-. ( dis-.)
   \dimHairpin
   e,4.^>\> e'8-3\! \( ( d) c-.-2\)
-    % Auflösungszeichen f
   b\p ( d-.) g4-.-0 d8-1\mf [( e16 f)]
   f8 [( d) e-4 ( c)] c,-. b'-.
   cis-1\p ( e-.) a4-. e8\mf ( fis16 g)
   g8 [( e) fis ( d)] d,-. a'-. 
   d [( fis-1) a-.] c \< ( b->)\! d-.
-    % Auflösungszeichen
   e, [( g\cresc) b-.]\! c-2 ( b->) d-.
   d\f [fis, ( g)] b,_3^\ltoe d,-. fis'-.
   < g, g' >2.
